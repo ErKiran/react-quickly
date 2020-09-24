@@ -30,8 +30,8 @@
     "hbs": "4.0.4",
     "mongodb": "2.2.25",
     "morgan": "1.9.1",
-    "react": "15.5.4",
-    "react-dom": "15.5.4"
+    "react": "16.5.0",
+    "react-dom": "16.5.0"
   },
   "devDependencies": {
     "axios": "0.13.1",
