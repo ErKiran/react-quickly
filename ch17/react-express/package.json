@@ -15,7 +15,7 @@
     "babel-register": "6.11.6",
     "errorhandler": "1.4.3",
     "express": "4.14.0",
-    "hbs": "4.0.0",
+    "hbs": "4.0.2",
     "react": "15.5.4",
     "react-dom": "15.5.4"
   }
