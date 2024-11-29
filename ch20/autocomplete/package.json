@@ -29,7 +29,7 @@
     "express": "4.16.0",
     "express-handlebars": "3.0.0",
     "express-validator": "3.0.0",
-    "mongodb": "2.0.36",
+    "mongodb": "2.0.48",
     "morgan": "1.9.1"
   },
   "devDependencies": {
