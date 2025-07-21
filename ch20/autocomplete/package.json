@@ -24,13 +24,13 @@
   "dependencies": {
     "babel-register": "6.11.6",
     "body-parser": "1.18.2",
-    "compression": "1.7.1",
+    "compression": "1.8.1",
     "errorhandler": "1.4.3",
     "express": "4.16.0",
     "express-handlebars": "3.0.0",
     "express-validator": "3.0.0",
     "mongodb": "2.0.36",
-    "morgan": "1.9.1"
+    "morgan": "1.10.1"
   },
   "devDependencies": {
     "axios": "0.13.1",
